@@ -4,9 +4,9 @@
 ## Sou um estudante e estagiário!
 
 - 📖 Estou me graduando em Ciência da Computação na Universidade Federal de Viçosa!
-- 📱 Estagio na Eduqi, uma empresa focada em educação e tecnologia
-- 💻 Faço parte da No Bugs, a empresa junior do curso de CCP da UFV
-- 🌱 Atualmente estou aprendendo sobre back end
+- 📱 Estagio na Eduqi, uma empresa focada em educação e tecnologia!
+- 💻 Faço parte da No Bugs, a empresa junior do curso de CCP da UFV!
+- 🌱 Atualmente estou aprendendo sobre back end!
 - 🤪 Fun fact: Aqui é galo doido! 🐓
 
 ---
@@ -25,7 +25,6 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React e React Native" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
