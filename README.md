@@ -35,7 +35,6 @@
 
 ---
 
-<img align="left" alt="bruno-avr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-avr" />
 <img align="left" alt="bruno-avr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bruno-avr&show_icons=true&count_private=true&hide=stars,prs,issues,contribs&hide_rank=true&include_all_commits=true" />
 
 [instagram]: https://instagram.com/bruno.avr
