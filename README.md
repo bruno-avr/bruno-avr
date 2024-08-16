@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/15d1738b-043c-4898-9aa2-cccbe008cff1)### Hi there, I'm Bruno 👋 
+### Hi there, I'm Bruno 👋 
 
 ## About Me!
 
@@ -32,12 +32,5 @@
 <img align="left" alt="AWS" width="26px" src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
-<br />
-<br />
-
----
-
-<img align="left" alt="bruno-avr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bruno-avr&show_icons=true&count_private=true&hide=stars,prs,issues,contribs&hide_rank=true&include_all_commits=true" />
-
 [instagram]: https://instagram.com/bruno.avr
-[linkedin]: https://linkedin.com/in/bruno-alencar-63b696217
+[linkedin]: https://www.linkedin.com/in/bruno-avr/
